@@ -1,0 +1,21 @@
+{
+  "name": "who-am-i",
+  "version": "0.0.1",
+  "description": "An application to simulate whoami command from unix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "whoami",
+    "user-agent",
+    "accept-language"
+  ],
+  "author": "Mohammed Sadiq",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
